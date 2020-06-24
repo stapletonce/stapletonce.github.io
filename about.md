@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me!
 permalink: /about/
 ---
 
-Some information about you!
+Hi I'm Chloe
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Here's some stuff about me! I am a rising senior in Computer Science. I love my dog.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[stapletonce@g.cofc.edu](mailto:stapletonce@g.cofc.edu)
